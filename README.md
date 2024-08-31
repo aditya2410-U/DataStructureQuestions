@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0091-decode-ways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
