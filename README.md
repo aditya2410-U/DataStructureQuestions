@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0503-next-greater-element-ii](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0503-next-greater-element-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
