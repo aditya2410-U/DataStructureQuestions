@@ -12,7 +12,8 @@ public:
                         (st.top() == '{' && s[i] == '}')) {
                         st.pop();
                 }
-                else{ return false;
+                else{ 
+                    return false;
                 }
             }
         }
