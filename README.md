@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0503-next-greater-element-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
