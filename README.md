@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0091-decode-ways) |
 ## Dynamic Programming
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
