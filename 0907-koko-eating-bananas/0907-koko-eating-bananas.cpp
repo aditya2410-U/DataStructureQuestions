@@ -10,8 +10,8 @@ public:
             for (int x : piles) {
                 ans += (x + mid - 1) / mid;
             }
-            if (ans > h) l = mid + 1;
-            else r = mid - 1;
+            if (ans <= h) r = mid - 1;
+            else l = mid + 1;
         }
         return l;
     }
