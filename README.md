@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0424-longest-repeating-character-replacement) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
