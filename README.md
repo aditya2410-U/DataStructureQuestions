@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0792-binary-search) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
