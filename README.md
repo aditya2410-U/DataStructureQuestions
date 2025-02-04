@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0907-koko-eating-bananas) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
