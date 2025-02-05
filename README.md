@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
