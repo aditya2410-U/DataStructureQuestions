@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1013-fibonacci-number](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,8 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
