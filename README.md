@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0074-search-a-2d-matrix) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0242-valid-anagram) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
