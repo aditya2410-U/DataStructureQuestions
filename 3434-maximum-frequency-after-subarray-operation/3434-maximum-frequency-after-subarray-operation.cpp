@@ -26,10 +26,7 @@ public:
                     curr += 1;     // we can convert v → k
                 } else if (nums[i] == k) {
                     curr -= 1;     // we lose an existing k
-                } else {
-                    // no effect
-                }
-
+                } 
                 if (curr < 0) {
                     curr = 0;
                 }
