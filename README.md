@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0907-koko-eating-bananas) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0567-permutation-in-string) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0334-increasing-triplet-subsequence) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/1013-fibonacci-number) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0238-product-of-array-except-self) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Memoization
 |  |
 | ------- |
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
