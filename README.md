@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0907-koko-eating-bananas) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0567-permutation-in-string) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0567-permutation-in-string) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0347-top-k-frequent-elements) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
