@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0907-koko-eating-bananas) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/0334-increasing-triplet-subsequence) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya2410-U/DataStructureQuestions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
